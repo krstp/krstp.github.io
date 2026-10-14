@@ -1,7 +1,7 @@
 {
-  "client_id": "https://krstp.github.io/mcp-metadata/gst-notebook.json",
+  "client_id": "https://krstp.github.io/mcp-manifest.json",
   "client_name": "mcp-notebook",
-  "client_uri": "https://krstp.github.io/mcp-metadata/",
+  "client_uri": "https://krstp.github.io/",
   "redirect_uris": ["http://localhost:3030/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
